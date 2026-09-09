@@ -1,0 +1,27 @@
+Show the whole practice9 folder
+Open castinar_atm_account.py
+Show __init__ _balance check_balance() deposit() and withdraw()
+Open castinar_atm_main.py
+Show the imports and Streamlit menu
+Run
+python -m streamlit run castinar_atm_main.py
+Open the Streamlit app
+Check Balance and show ₱10,000.00
+Deposit 1000
+Show the new balance
+Withdraw 500
+Show the new balance
+Try withdrawing 20000
+Show Insufficient balance.
+Open View History
+Show the transaction table
+Open Analyze Transactions
+Show all 3 analysis sections
+Open transactions.txt
+Show the saved Deposit and Withdraw
+Do your own test like Deposit 2500
+Show the updated balance
+Show View History again
+Show transactions.txt again
+Show all your source files
+Show your learning signature and system time
