@@ -1,0 +1,40 @@
+Timestamp: 2026-09-08 22:57:37
+Account: THEO PAULO CASTINAR
+Transaction: Deposit
+Amount: ₱100.00
+
+Timestamp: 2026-09-08 22:57:44
+Account: THEO PAULO CASTINAR
+Transaction: Withdraw
+Amount: ₱200.00
+
+Timestamp: 2026-09-08 23:01:54
+Account: THEO PAULO CASTINAR
+Transaction: Deposit
+Amount: ₱100.00
+
+Timestamp: 2026-09-08 23:01:59
+Account: THEO PAULO CASTINAR
+Transaction: Withdraw
+Amount: ₱200.00
+
+Timestamp: 2026-09-08 23:16:22
+Account: THEO PAULO CASTINAR
+Transaction: Deposit
+Amount: ₱1000.00
+
+Timestamp: 2026-09-08 23:47:19
+Account: THEO PAULO CASTINAR
+Transaction: Deposit
+Amount: ₱300.00
+
+Timestamp: 2026-09-09 02:11:31
+Account: THEO PAULO CASTINAR
+Transaction: Deposit
+Amount: ₱1000.00
+
+Timestamp: 2026-09-09 02:11:34
+Account: THEO PAULO CASTINAR
+Transaction: Withdraw
+Amount: ₱500.00
+
